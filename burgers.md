@@ -1,8 +1,9 @@
 #Burgers
 
 ## Ingredients
-meat
-bun
+*meat
+*bun
 
 ## 
-Do it
+*Put together
+*eat
