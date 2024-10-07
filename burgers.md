@@ -1,8 +1,9 @@
-#Burgers
+# Burgers
 
 ## Ingredients
-meat
-bun
+* meat
+* bun
 
-## 
-Do it
+## Recipe 
+* Put together
+* eat
